@@ -1,0 +1,21 @@
+{
+  "name": "js_backend_emp",
+  "version": "1.0.0",
+  "description": "back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016(https://github.com/Emptin3s/js_backend_emp.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "espress": "^0.0.0",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  }
+}
